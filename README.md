@@ -1,2 +1,3 @@
 # Python-Programming
-Beginner level Python
+
+Beginner level Python and practice projects
